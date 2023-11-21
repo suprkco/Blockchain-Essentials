@@ -1,4 +1,4 @@
-# Sample Hardhat Project
+# Blockchain Essentials
 
 This repository contains a collection of Solidity smart contracts with accompanying Hardhat test scripts, showcasing fundamental functionalities for Ethereum-based decentralized applications (DApps).
 Contracts Overview
